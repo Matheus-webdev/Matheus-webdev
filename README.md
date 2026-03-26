@@ -162,7 +162,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 ---
 
-## 🐍 Snake Animation (Contribuições)
+## 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Matheus-webdev/Matheus-webdev/output/github-contribution-grid-snake.svg" />
