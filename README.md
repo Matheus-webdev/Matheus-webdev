@@ -81,7 +81,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 ---
 
-### 🎮 Games / Projetos Interativos
+### 🎮 Game / Projeto Interativo
 
 <p align="center">
   <a href="https://matheus-webdev.github.io/Jogo-pelicanos-azuis/" target="_blank">
@@ -95,7 +95,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 ---
 
-### 🌐 Sites / Landing Pages
+### 🌐 Site / Landing Page
 
 <p align="center">
   <a href="https://matheus-webdev.github.io/Matuto-dev-site/" target="_blank">
@@ -158,6 +158,14 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
+</p>
+
+---
+
+## 🐍 Snake Animation (Contribuições)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matheus-webdev/Matheus-webdev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
