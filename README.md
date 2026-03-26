@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim | About Me
+##  Sobre mim | About Me
 
 🇧🇷 Olá! Eu sou **Matheus Leonardo Pereira de Souza**, desenvolvedor web em formação.  
 Estou em **constante aprendizado**, buscando evoluir cada vez mais e aprender **tudo sobre programação**, desde lógica até desenvolvimento completo de aplicações.
