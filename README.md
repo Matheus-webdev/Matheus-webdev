@@ -3,26 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Matheus%20Leonardo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Desenvolvedor Web em Formação | HTML • CSS • JavaScript</h3>
+<h3 align="center">🚀 Desenvolvedor de Software em Formação | Full Stack em evolução</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+GitHub!;Dev+Front-end+em+constante+evolução;Aprendendo+todos+os+dias+com+Alpha+EdTech;Meu+objetivo:+dominar+programação;Construindo+projetos+reais+para+portfólio" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+de+Software+em+constante+evolução;Aprendendo+todos+os+dias+com+Alpha+EdTech;Meu+objetivo:+dominar+programação;Construindo+projetos+reais+para+portfólio" />
 </p>
 
 ---
 
-##  Sobre mim | About Me
+## 👨‍💻 Sobre mim | About Me
 
-🇧🇷 Olá! Eu sou **Matheus Leonardo Pereira de Souza**, desenvolvedor web em formação.  
+🇧🇷 Olá! Eu sou **Matheus Leonardo Pereira de Souza**, desenvolvedor de software em formação.  
 Estou em **constante aprendizado**, buscando evoluir cada vez mais e aprender **tudo sobre programação**, desde lógica até desenvolvimento completo de aplicações.
 
 Faço parte do **Alpha EdTech**, uma ONG formadora de programadores, onde estou aprimorando minhas habilidades com foco em projetos reais, prática e evolução profissional.
 
-🇺🇸 Hi! I'm **Matheus Leonardo Pereira de Souza**, a web developer in training.  
+🇺🇸 Hi! I'm **Matheus Leonardo Pereira de Souza**, a software developer in training.  
 I'm constantly learning and improving, aiming to master programming and build real-world projects.
 
 📍 **Contagem - MG, Brasil**  
-🎯 **Foco:** Front-end Development  
+🎯 **Foco:** Desenvolvimento Web e Programação (Full Stack)  
 📌 **Objetivo:** Dominar programação e evoluir para o nível profissional  
 
 ---
@@ -32,7 +32,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 📌 Atualmente estou evoluindo diariamente através do **Alpha EdTech**, focando em:
 
 ✅ Lógica de Programação  
-✅ Desenvolvimento Web (HTML, CSS, JavaScript)  
+✅ Desenvolvimento Web (Front-end e Back-end)  
 ✅ Boas práticas e organização de código  
 ✅ Projetos reais e desafios  
 ✅ Evolução para tecnologias avançadas do mercado  
@@ -50,7 +50,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 ## 📚 Em aprendizado | Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mysql&theme=dark" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 ## 🚀 Projetos em Destaque (Portfólio)
 
 <p align="center">
-  <b>📌 Alguns dos meus melhores projetos feitos com HTML, CSS e JavaScript.</b><br>
+  <b>📌 Alguns dos meus projetos feitos com HTML, CSS e JavaScript.</b><br>
   <i>Projetos em constante evolução, desenvolvidos enquanto aprendo e pratico através do Alpha EdTech.</i>
 </p>
 
@@ -113,10 +113,12 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 📌 Estou constantemente criando novos projetos para evoluir minhas habilidades e expandir meu portfólio, incluindo:
 
-- Mini sistemas em JavaScript
-- Sites responsivos modernos
-- Projetos completos consumindo APIs
-- Projetos futuros com React.js
+- Mini sistemas e desafios de lógica
+- Projetos completos em JavaScript
+- Projetos consumindo APIs (Fetch / JSON)
+- Projetos com Back-end usando Node.js
+- Banco de dados (SQL)
+- Projetos futuros com React.js e TypeScript
 
 ---
 
@@ -130,9 +132,9 @@ I'm constantly learning and improving, aiming to master programming and build re
 | JavaScript Avançado (Async, API, Fetch) | 🔥 Próximo passo |
 | Git e GitHub profissional | ✅ Em progresso |
 | React.js | 🔥 Em breve |
-| Node.js | 🔜 Futuro |
+| Node.js (APIs) | 🔜 Futuro |
 | TypeScript | 🔜 Futuro |
-| Banco de Dados | 🔜 Futuro |
+| Banco de Dados (SQL) | 🔜 Futuro |
 | Full Stack Developer | 🎯 Objetivo final |
 
 ---
@@ -140,9 +142,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 ## 🎓 Certificados e Formação
 
 📌 **Alpha EdTech** - Formação de Programadores (Em andamento)  
-📌 Cursos complementares e estudos contínuos (Em atualização)
-
-> Conforme eu for concluindo certificados, vou colocar todos aqui.
+📌 Estudos contínuos e prática constante (Sempre evoluindo)
 
 ---
 
@@ -162,7 +162,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Snake Animation (Contribuições)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Matheus-webdev/Matheus-webdev/output/github-contribution-grid-snake.svg" />
