@@ -147,8 +147,8 @@ O projeto possui:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./assets/github-stats.svg" height="170" />
-  <img src="./assets/github-languages.svg" height="170" />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
 
 ---
@@ -156,7 +156,7 @@ O projeto possui:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="./assets/github-streak.svg" height="170" />
+  <img src="./profile/streak.svg" height="170" alt="GitHub Streak" />
 </p>
 ---
 
