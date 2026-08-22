@@ -3,55 +3,144 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Matheus%20Leonardo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Desenvolvedor de Software em Formação | Full Stack em evolução</h3>
+<h3 align="center">🚀 Desenvolvedor de Software | ADS | Cybersecurity & Tecnologia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+de+Software+em+constante+evolução;Aprendendo+todos+os+dias+com+Alpha+EdTech;Meu+objetivo:+dominar+programação;Construindo+projetos+reais+para+portfólio" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+de+Software+em+constante+evolução;Estudante+de+ADS+na+UNA+Contagem;Construindo+projetos+reais;Explorando+novas+linguagens+e+tecnologias;Foco+em+Cybersecurity" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim | About Me
 
-🇧🇷 Olá! Eu sou **Matheus Leonardo Pereira de Souza**, desenvolvedor de software em formação.  
-Estou em **constante aprendizado**, buscando evoluir cada vez mais e aprender **tudo sobre programação**, desde lógica até desenvolvimento completo de aplicações.
+🇧🇷 Olá! Eu sou **Matheus Leonardo Pereira de Souza**, desenvolvedor de software e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNA Contagem**.
 
-Faço parte do **Alpha EdTech**, uma ONG formadora de programadores, onde estou aprimorando minhas habilidades com foco em projetos reais, prática e evolução profissional.
+Minha trajetória começou com o desenvolvimento web e, ao longo dos estudos e projetos, venho ampliando minha visão sobre tecnologia, passando por desenvolvimento de aplicações, bancos de dados, APIs e diferentes ferramentas do mercado.
 
-🇺🇸 Hi! I'm **Matheus Leonardo Pereira de Souza**, a software developer in training.  
-I'm constantly learning and improving, aiming to master programming and build real-world projects.
+Atualmente, meu foco está em **expandir meus conhecimentos para novas linguagens, tecnologias e principalmente Cybersecurity**, buscando entender não apenas como desenvolver sistemas, mas também como protegê-los.
 
+🎓 **Curso:** Análise e Desenvolvimento de Sistemas — UNA Contagem  
 📍 **Contagem - MG, Brasil**  
-🎯 **Foco:** Desenvolvimento Web e Programação (Full Stack)  
-📌 **Objetivo:** Dominar programação e evoluir para o nível profissional  
+💻 **Área:** Desenvolvimento de Software  
+🔐 **Novo foco:** Cybersecurity  
+🚀 **Objetivo:** Evoluir constantemente e construir soluções cada vez mais completas e seguras.
+
+🇺🇸 Hi! I'm **Matheus Leonardo Pereira de Souza**, a software developer and **Systems Analysis and Development (ADS)** student at **UNA Contagem**.
+
+I started my journey focused on web development and have been expanding my knowledge through real projects, programming, databases, APIs and different technologies.
+
+Currently, my focus is on **learning new programming languages, exploring new technologies and developing my knowledge in Cybersecurity**.
 
 ---
 
-## 🔥 Em constante aprendizado (Alpha EdTech)
+## 🎓 Formação
 
-📌 Atualmente estou evoluindo diariamente através do **Alpha EdTech**, focando em:
+### 🏫 Análise e Desenvolvimento de Sistemas — UNA Contagem
 
-✅ Lógica de Programação  
-✅ Desenvolvimento Web (Front-end e Back-end)  
-✅ Boas práticas e organização de código  
-✅ Projetos reais e desafios  
-✅ Evolução para tecnologias avançadas do mercado  
+**Status:** Em andamento
+
+Durante minha graduação, estou aprofundando conhecimentos em:
+
+- 💻 Desenvolvimento de Software
+- 🧠 Lógica e fundamentos de programação
+- 🗄️ Banco de Dados
+- 🌐 Desenvolvimento Web
+- 🔌 APIs e integração de sistemas
+- 🏗️ Engenharia e arquitetura de software
+- 🔐 Segurança da Informação
+- 🛡️ Cybersecurity
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias e conhecimentos
+
+### 💻 Desenvolvimento
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,typescript,git,github,vscode&theme=dark" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase&theme=dark" />
+</p>
+
+### 🔐 Cybersecurity & Novas Tecnologias
+
+Atualmente estou direcionando meus estudos para:
+
+- 🔐 Cybersecurity
+- 🛡️ Segurança de aplicações
+- 🌐 Segurança Web
+- 🔎 Análise de vulnerabilidades
+- 🐧 Linux
+- 🌍 Redes de computadores
+- 🧪 Testes e análise de segurança
+- 💻 Novas linguagens de programação
+- ⚙️ Novas ferramentas e tecnologias
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🛒 Paixão Suplementos
+
+Uma aplicação de e-commerce desenvolvida para gerenciamento e apresentação de produtos.
+
+O projeto possui funcionalidades para:
+
+- 📦 Cadastro de produtos
+- ✏️ Edição de produtos
+- 🗑️ Remoção de produtos
+- 🛍️ Organização de produtos
+- 💻 Interface responsiva
+- 🌐 Aplicação publicada na internet
+
+🔗 **[Acessar Paixão Suplementos](https://www.xn--paixosuplementos-hnb.com.br/)**
+
+---
+
+### 🎮 Pelicanos Azuis — Game
+
+Jogo desenvolvido com **HTML, CSS e JavaScript**, utilizando lógica de programação para criar uma experiência interativa.
+
+O projeto conta com:
+
+- 🗺️ Sistema de mapas
+- 🔑 Sistema de chave e porta
+- ⚡ Sistema de energia
+- 🎯 Sistema de níveis
+- 🧠 Lógica de movimentação
+- 🏆 Ranking
+- 🔥 Integração com banco de dados
+- 🌐 Projeto publicado online
+
+🔗 **[Jogar Pelicanos Azuis](https://matheus-webdev.github.io/Jogo-pelicanos-azuis/)**
+
+<p align="center">
+  <a href="https://matheus-webdev.github.io/Jogo-pelicanos-azuis/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-webdev&repo=Jogo-pelicanos-azuis&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 📚 Em aprendizado | Currently Learning
+### 🐍 Jogo da Cobrinha
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mysql&theme=dark" />
-</p>
+Projeto de um **Snake Game totalmente funcional**, desenvolvido para praticar lógica de programação, manipulação do DOM, eventos e criação de mecânicas de jogos utilizando JavaScript.
+
+O projeto possui:
+
+- 🐍 Movimentação da cobra
+- 🍎 Sistema de comida
+- 📈 Sistema de pontuação
+- 💀 Sistema de colisão
+- 🔄 Reinício da partida
+- 🎮 Controles pelo teclado
+- 📱 Interface adaptável
+
+> Projeto desenvolvido com foco em lógica, JavaScript e criação de aplicações interativas.
 
 ---
 
@@ -59,6 +148,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-webdev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-webdev&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
@@ -72,77 +162,66 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 ---
 
-## 🚀 Projetos em Destaque (Portfólio)
+## 🎯 Atualmente estudando
 
-<p align="center">
-  <b>📌 Alguns dos meus projetos feitos com HTML, CSS e JavaScript.</b><br>
-  <i>Projetos em constante evolução, desenvolvidos enquanto aprendo e pratico através do Alpha EdTech.</i>
-</p>
+Meu foco atual está em sair da zona de conforto e ampliar minha base técnica.
 
----
+### 🔐 Cybersecurity
 
-### 🎮 Game / Projeto Interativo
+- Segurança Web
+- OWASP
+- Vulnerabilidades
+- Pentest
+- Redes
+- Linux
+- Segurança de aplicações
+- Análise de sistemas
 
-<p align="center">
-  <a href="https://matheus-webdev.github.io/Jogo-pelicanos-azuis/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-webdev&repo=Jogo-pelicanos-azuis&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+### 💻 Novas linguagens
 
-<p align="center">
-  🔗 <a href="https://matheus-webdev.github.io/Jogo-pelicanos-azuis/" target="_blank"><b>Acessar Projeto Online</b></a>
-</p>
+Estou explorando novas linguagens e tecnologias além do meu stack inicial, buscando entender diferentes paradigmas de programação e ampliar minhas possibilidades profissionais.
 
----
+### 🚀 Desenvolvimento
 
-### 🌐 Site / Landing Page
+Também continuo aprimorando:
 
-<p align="center">
-  <a href="https://matheus-webdev.github.io/Matuto-dev-site/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-webdev&repo=Matuto-dev-site&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  🔗 <a href="https://matheus-webdev.github.io/Matuto-dev-site/" target="_blank"><b>Acessar Projeto Online</b></a>
-</p>
+- Arquitetura de software
+- APIs
+- Banco de dados
+- Backend
+- Desenvolvimento Full Stack
+- Boas práticas
+- Segurança no desenvolvimento
 
 ---
 
-### 🚀 Próximos Projetos (Em breve)
+## 📈 Evolução
 
-📌 Estou constantemente criando novos projetos para evoluir minhas habilidades e expandir meu portfólio, incluindo:
-
-- Mini sistemas e desafios de lógica
-- Projetos completos em JavaScript
-- Projetos consumindo APIs (Fetch / JSON)
-- Projetos com Back-end usando Node.js
-- Banco de dados (SQL)
-- Projetos futuros com React.js e TypeScript
-
----
-
-## 🚀 Roadmap de Evolução (Meu Caminho)
-
-| Etapa | Status |
+| Área | Status |
 |------|--------|
-| HTML Avançado | ✅ Em progresso |
-| CSS Responsivo + Flexbox + Grid | ✅ Em progresso |
-| JavaScript (DOM, Eventos, Funções) | ✅ Em progresso |
-| JavaScript Avançado (Async, API, Fetch) | 🔥 Próximo passo |
-| Git e GitHub profissional | ✅ Em progresso |
-| React.js | 🔥 Em breve |
-| Node.js (APIs) | 🔜 Futuro |
-| TypeScript | 🔜 Futuro |
-| Banco de Dados (SQL) | 🔜 Futuro |
-| Full Stack Developer | 🎯 Objetivo final |
+| HTML | ✅ |
+| CSS | ✅ |
+| JavaScript | ✅ |
+| Git & GitHub | ✅ |
+| APIs / Fetch | ✅ |
+| Banco de Dados | ✅ |
+| Node.js | ✅ |
+| React | ✅ |
+| TypeScript | ✅ |
+| Desenvolvimento Web | ✅ |
+| ADS — UNA Contagem | 🔥 Em andamento |
+| Novas linguagens | 🚀 Estudando |
+| Linux | 🔥 Estudando |
+| Redes | 🔥 Estudando |
+| Cybersecurity | 🎯 Foco atual |
 
 ---
 
-## 🎓 Certificados e Formação
+## 🧠 Minha direção profissional
 
-📌 **Alpha EdTech** - Formação de Programadores (Em andamento)  
-📌 Estudos contínuos e prática constante (Sempre evoluindo)
+> **Desenvolver sistemas é apenas uma parte do processo. Quero entender como eles funcionam, como podem ser melhorados e, principalmente, como podem ser protegidos.**
+
+Meu objetivo é continuar evoluindo como profissional de tecnologia, unindo **desenvolvimento de software, novas tecnologias e Cybersecurity**.
 
 ---
 
@@ -154,7 +233,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 ---
 
-## 🖥️ GIF de Programação
+## 🖥️ Coding
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
@@ -162,7 +241,7 @@ I'm constantly learning and improving, aiming to master programming and build re
 
 ---
 
-## 🐍 Snake Animation (Contribuições)
+## 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Matheus-webdev/Matheus-webdev/output/github-contribution-grid-snake.svg" />
