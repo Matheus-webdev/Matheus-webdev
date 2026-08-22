@@ -147,14 +147,8 @@ O projeto possui:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Matheus-webdev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-webdev&layout=compact&theme=github_dark&hide_border=true" 
-    height="170"
-  />
+  <img src="./assets/github-stats.svg" height="170" />
+  <img src="./assets/github-languages.svg" height="170" />
 </p>
 
 ---
@@ -162,13 +156,8 @@ O projeto possui:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Matheus-webdev&theme=github-dark&hide_border=true" 
-  height="170"
-  alt="GitHub Streak"
-  />
+  <img src="./assets/github-streak.svg" height="170" />
 </p>
-
 ---
 
 ## 🎯 Atualmente estudando
